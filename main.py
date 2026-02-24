@@ -1,4 +1,4 @@
-from modules import user_auth, task_manager, database, ui, notifications
+import user_auth, task_manager, database, ui, notifications
 
 def main():
     # Inisialisasi database
