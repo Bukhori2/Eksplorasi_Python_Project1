@@ -1,4 +1,4 @@
-from modules import task_manager, notifications
+import task_manager, notifications
 
 def run(user):
     while True:

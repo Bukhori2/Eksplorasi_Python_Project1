@@ -1,5 +1,5 @@
 from datetime import datetime
-from modules import task_manager
+import task_manager
 
 def check_deadlines():
     today = datetime.today().strftime("%Y-%m-%d")
